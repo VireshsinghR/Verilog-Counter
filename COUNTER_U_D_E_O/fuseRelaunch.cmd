@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "F:/Verilog Projects/COUNTER_U_D_E_O/tb_isim_beh.exe" -prj "F:/Verilog Projects/COUNTER_U_D_E_O/tb_beh.prj" "work.tb" "work.glbl" 

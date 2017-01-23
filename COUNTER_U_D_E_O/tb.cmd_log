@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/Vireshsingh/Desktop/Verilog/COUNTER_U_D_E_O/tb.xst" -ofn "C:/Users/Vireshsingh/Desktop/Verilog/COUNTER_U_D_E_O/tb.syr" 
+xst -intstyle ise -ifn "C:/Users/Vireshsingh/Desktop/Verilog/COUNTER_U_D_E_O/tb.xst" -ofn "C:/Users/Vireshsingh/Desktop/Verilog/COUNTER_U_D_E_O/tb.syr" 

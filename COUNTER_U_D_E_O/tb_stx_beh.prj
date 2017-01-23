@@ -1,0 +1,3 @@
+verilog isim_temp "UP_DOWN_EVEN_ODD.v"
+verilog isim_temp "tb.v"
+verilog isim_temp "F:/Installations/XilinxISE/14.7/ISE_DS/ISE//verilog/src/glbl.v"
